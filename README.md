@@ -1,4 +1,3 @@
 # [Angel Lin Resume](https://angellinn.github.io/)
 
-Quick learner with growth mindset. Keen to detail and result driven. Dedicated in using data and quantitative methods to develop cost saving plans and execute various procurement activities. Possessing excellent critical thinking and interpersonal skills, Angel is dedicated in driving Supply Chain solutions with a forward-moving company. 
-
+A third-year student studying Informatics & GIS at the University of Washington, I am aspired to use data and quantitative methods to improve decision making for all activities across the supply chain. As a proactive problem solver who thinks out of the box, I am ambitious and passionate about delivering innovative solutions in the big supply chain analytics landscape.
